@@ -1,0 +1,13 @@
+{
+  "name": "login-signup-validation",
+  "version": "1.0.0",
+  "description": "Login & Signup form with validation using HTML, CSS, JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx live-server",
+    "format": "npx prettier --write ."
+  },
+  "keywords": ["login", "signup", "validation", "javascript"],
+  "author": "Your Name",
+  "license": "MIT"
+}
